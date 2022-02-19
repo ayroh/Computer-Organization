@@ -1,0 +1,57 @@
+Quartus II Archive log --	C:/diger/altera/13.1/YALCINKAYA_BILAL_1901042643.qarlog
+
+Archive:	C:/diger/altera/13.1/YALCINKAYA_BILAL_1901042643.qar
+Date:		Thu Jan 06 16:32:48 2022
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/diger/altera/13.1/db/hw3.db_info
+C:/diger/altera/13.1/heve3/ControlUnitTestbench.v
+C:/diger/altera/13.1/heve3/InstructionMemory.v
+C:/diger/altera/13.1/heve3/MainTestbench.v
+C:/diger/altera/13.1/heve3/PC_Adder.v
+C:/diger/altera/13.1/heve3/controlUnit.v
+C:/diger/altera/13.1/heve3/deconstructInstruction.v
+C:/diger/altera/13.1/heve3/hw2/ALU.v
+C:/diger/altera/13.1/heve3/hw2/Complement2s.v
+C:/diger/altera/13.1/heve3/hw2/add32.v
+C:/diger/altera/13.1/heve3/hw2/alu32.v
+C:/diger/altera/13.1/heve3/hw2/and32.v
+C:/diger/altera/13.1/heve3/hw2/full_adder.v
+C:/diger/altera/13.1/heve3/hw2/half_adder.v
+C:/diger/altera/13.1/heve3/hw2/mux2.v
+C:/diger/altera/13.1/heve3/hw2/mux3.v
+C:/diger/altera/13.1/heve3/hw2/mux32.v
+C:/diger/altera/13.1/heve3/hw2/mux64.v
+C:/diger/altera/13.1/heve3/hw2/nor32.v
+C:/diger/altera/13.1/heve3/hw2/not32.v
+C:/diger/altera/13.1/heve3/hw2/or32.v
+C:/diger/altera/13.1/heve3/hw2/shiftR.v
+C:/diger/altera/13.1/heve3/hw2/slt32.v
+C:/diger/altera/13.1/heve3/hw2/sub32.v
+C:/diger/altera/13.1/heve3/hw2/xor32.v
+C:/diger/altera/13.1/heve3/hw3.v
+C:/diger/altera/13.1/heve3/isEqual.v
+C:/diger/altera/13.1/heve3/memories.v
+C:/diger/altera/13.1/heve3/memoryTestbench.v
+C:/diger/altera/13.1/heve3/mux16.v
+C:/diger/altera/13.1/heve3/mux4.v
+C:/diger/altera/13.1/heve3/registerTestbench.v
+C:/diger/altera/13.1/heve3/registers.v
+C:/diger/altera/13.1/heve3/signExtender.v
+C:/diger/altera/13.1/hw3.qpf
+C:/diger/altera/13.1/hw3.qsf
+C:/diger/altera/13.1/incremental_db/compiled_partitions/hw3.db_info
+C:/diger/altera/13.1/instructionMemory.dat
+C:/diger/altera/13.1/simulation/modelsim/instructionMemory.dat
+c:/diger/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 40 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Jan 06 16:33:07 2022
+Source archive file:	C:/Users/Patates/Desktop/YALCINKAYA_BILAL_1901042643.qar
+Archive was extracted into	C:/Users/Patates/Desktop/YALCINKAYA_BILAL_1901042643_restored/
+		 - successfully.

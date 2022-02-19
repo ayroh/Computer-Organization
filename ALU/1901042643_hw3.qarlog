@@ -1,0 +1,52 @@
+Quartus II Archive log --	C:/diger/altera/13.1/co/1901042643_hw3.qarlog
+
+Archive:	C:/diger/altera/13.1/co/1901042643_hw3.qar
+Date:		Sun Dec 19 22:15:32 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/diger/altera/13.1/co/Complement2s.v
+C:/diger/altera/13.1/co/add32.v
+C:/diger/altera/13.1/co/alu32.v
+C:/diger/altera/13.1/co/and32.v
+C:/diger/altera/13.1/co/control.v
+C:/diger/altera/13.1/co/datapath.v
+C:/diger/altera/13.1/co/db/hw3.db_info
+C:/diger/altera/13.1/co/full_adder.v
+C:/diger/altera/13.1/co/half_adder.v
+C:/diger/altera/13.1/co/hw3.qpf
+C:/diger/altera/13.1/co/hw3.qsf
+C:/diger/altera/13.1/co/incremental_db/compiled_partitions/hw3.db_info
+C:/diger/altera/13.1/co/mult32.v
+C:/diger/altera/13.1/co/mux2.v
+C:/diger/altera/13.1/co/mux3.v
+C:/diger/altera/13.1/co/mux32.v
+C:/diger/altera/13.1/co/mux64.v
+C:/diger/altera/13.1/co/nor32.v
+C:/diger/altera/13.1/co/not32.v
+C:/diger/altera/13.1/co/or32.v
+C:/diger/altera/13.1/co/shiftR.v
+C:/diger/altera/13.1/co/slt32.v
+C:/diger/altera/13.1/co/sub32.v
+C:/diger/altera/13.1/co/testbench_add32.v
+C:/diger/altera/13.1/co/testbench_alu32.v
+C:/diger/altera/13.1/co/testbench_and32.v
+C:/diger/altera/13.1/co/testbench_mult32.v
+C:/diger/altera/13.1/co/testbench_nor32.v
+C:/diger/altera/13.1/co/testbench_or32.v
+C:/diger/altera/13.1/co/testbench_slt32.v
+C:/diger/altera/13.1/co/testbench_sub32.v
+C:/diger/altera/13.1/co/testbench_xor32.v
+C:/diger/altera/13.1/co/top.v
+C:/diger/altera/13.1/co/xor32.v
+c:/diger/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 35 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Dec 19 22:29:05 2021
+Source archive file:	C:/Users/Patates/Desktop/1901042643_hw3.qar
+Archive was extracted into	C:/Users/Patates/Desktop/1901042643_hw3_restored/
+		 - successfully.

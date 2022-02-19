@@ -1,0 +1,7 @@
+Array_inp: 2 6 5  | Array_outp: 2 6  | size: 2
+Array_inp: 3 8 5 7 4 9  | Array_outp: 3 5 7 9  | size: 4
+Array_inp: 4 5 2 7 6 8 9  | Array_outp: 4 5 7 8 9  | size: 5
+Array_inp: 4 2 5 1 7  | Array_outp: 4 5 7  | size: 3
+Array_inp: 8 1 5 6 2 7 9  | Array_outp: 1 5 6 7 9  | size: 5
+Array_inp: 7 5 4 3 1 8  | Array_outp: 7 8  | size: 2
+Array_inp: 1 5 8 2 3 4 9  | Array_outp: 1 2 3 4 9  | size: 5
